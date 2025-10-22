@@ -17,9 +17,7 @@ Certified **AWS & DevOps Engineer** 🌍 | Exploring **AI 🤖** | Proud **Femal
 ### ⚡ Tech & Tools I Love  
 
 **AWS ☁️ (always first!)** | Docker 🐳 | Kubernetes ☸️ | Terraform 🌍 | Jenkins ⚙️ |  
-GitHub Actions 🚦 | ArgoCD 🚀 | Ansible 📦 | Linux 🐧 | GitHub 💻 |  
-
-**CloudFormation 📜 | AWS Lambda ⚡ | Amazon S3 🗂️ | Amazon RDS 🛢️ | Amazon EKS ☸️ | EC2 💻 | Helm ⛵ | Prometheus 📊 | Grafana 📈 | Vault 🔑  
+GitHub Actions 🚦 | ArgoCD 🚀 | Ansible 📦 | Linux 🐧 | GitHub 💻  | Helm ⛵ | Prometheus 📊 | Grafana 📈 | Vault 🔑  
 
 …and yes, did I mention **AWS? 💙**  
 
